@@ -9,20 +9,20 @@ O app está disponível em:
 ## 🛠️ Como rodar localmente
 1. Instale o Go
 2. Clone o repositório:
-```sh git clone https://github.com/seu-usuario/hello-world-gcp.git```
+```git clone https://github.com/seu-usuario/hello-world-gcp.git```
 3. Entre no diretório do projeto:
-```sh cd hello-world-gcp```
+```cd hello-world-gcp```
 4. Execute o servidor:
-```sh go run main.go```
+```go run main.go```
 
 ## 🚀 Como fazer deploy no Google Cloud App Engine
 1. Certifique-se de que tem o SDK do Google Cloud instalado.
 2. Autentique-se no Google Cloud: 
-```sh gcloud auth login```
+```gcloud auth login```
 3. Escolha o projeto: 
-```sh gcloud config set project SEU-PROJETO-ID```
+```gcloud config set project SEU-PROJETO-ID```
 4. Faça o deploy:
-```sh gcloud app deploy```
+```gcloud app deploy```
 5. Acesse a URL fornecida após o deploy.
 
 ---
