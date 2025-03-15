@@ -1,1 +1,5 @@
 runtime: go123  # or another supported version
+
+automatic_scaling:
+  min_instances: 0  # Garante que nenhuma instância fique ativa sem uso
+  max_instances: 1  # Apenas 1 instância no máximo
