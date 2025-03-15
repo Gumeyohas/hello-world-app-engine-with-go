@@ -4,7 +4,7 @@ Este é um projeto simples de Hello World utilizando a linguagem Go, hospedado n
 
 ## 🔹 Como acessar
 O app está disponível em:  
-[https://seu-projeto.appspot.com](https://steam-verve-453803-n4.uc.r.appspot.com/)
+[https://steam-verve-453803-n4.uc.r.appspot.com/](https://steam-verve-453803-n4.uc.r.appspot.com/)
 
 ## 🛠️ Como rodar localmente
 1. Instale o Go
